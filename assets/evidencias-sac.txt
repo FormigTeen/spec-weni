@@ -1,0 +1,88 @@
+Caso 1 — Atendimento do contato +55 (21) 99456-5387
+
+Neste cenário, o usuário inicia sua jornada no aplicativo de E-commerce, porém, ao não
+conseguir resolver sua demanda pelo canal original, é motivado a abandonar o aplicativo
+e buscar suporte pela Weni (WhatsApp) para tratar o cancelamento do pedido.
+
+O caso se torna mais crítico porque, além da quebra de jornada, o atendimento conduzido
+pela automação apresenta inconsistência entre o comportamento sistêmico e a
+mensagem exibida ao usuário. Pelos registros analisados, consta no log que houve
+criação de ticket com sucesso, porém a mensagem apresentada ao cliente informa falha
+no processamento e comunica que a solicitação está sendo transferida para atendimento
+humano. Essa divergência gera percepção de erro, mesmo com a execução técnica
+aparentemente concluída com sucesso na plataforma.
+Caso 2 — Ruptura de jornada entre Site/App e Weni, com aumento de atrito e
+acionamento desnecessário do SAC
+
+Neste cenário, o usuário busca inicialmente resolver sua demanda pelos canais digitais
+primários, Site e Aplicativo, onde realizou a consulta prévia sobre o pedido. No entanto, ao
+não obter avanço satisfatório na resolução, ocorre nova quebra de fluxo de navegação,
+levando o cliente a migrar para a Weni (WhatsApp) em busca de atendimento.
+
+Durante a interação, o usuário manifesta de forma explícita sua insatisfação com a
+demora no atendimento e com a necessidade de ser novamente direcionado para a
+assistente virtual, evidenciando desgaste na experiência e baixa efetividade da jornada
+digital atual.
+
+Pelos elementos observados, há indícios de que Site e Aplicativo já dispõem de
+informações estruturais sobre o tipo de produto, porém esses canais não apresentam
+de forma suficientemente acionável ou contextualizada as informações relacionadas
+a um pedido específico. Na prática, isso reduz a capacidade de autosserviço e faz com
+que o cliente precise recorrer a canais adicionais para tratar uma demanda que poderia
+estar resolvida no ambiente original da compra.
+Caso 3 — Desvio de fluxo do aplicativo para o WhatsApp na tratativa de
+cancelamento
+
+Neste cenário, observa-se novamente desvio de jornada dos canais digitais principais
+para a Weni (WhatsApp). O usuário inicia a tratativa relacionada ao pedido pelos meios
+digitais da companhia, em especial o aplicativo, mas precisa abandonar a plataforma
+para buscar resolução pelo canal conversacional.
+
+Pela evidência apresentada, o atendimento inicial no WhatsApp retorna informações de
+status logístico do pedido, indicando pagamento aprovado e etapa de preparação para
+faturamento e expedição. Na sequência, o usuário informa que sua necessidade real é
+cancelamento do pedido, demonstrando que a interação inicial não resolveu o objetivo
+principal da jornada.
+
+Esse comportamento reforça um padrão já observado em outros casos: o cliente recorre
+aos canais digitais primários, mas, diante da limitação de resolução para uma necessidade
+específica, migra para outro canal para tentar concluir a solicitação.
+Caso 4 — Atendimento do contato 1470817656970@www.casaevideo.com.br
+
+Neste cenário, o usuário inicia sua jornada no site de E-commerce, e é redirecionado para
+o suporte pela Weni (WhatsApp) para tratar o cancelamento do pedido na tentativa de
+realizar o cancelamento do pedido.
+
+Semelhante ao caso 1, consta no log que houve criação de ticket com sucesso, porém a
+mensagem apresentada ao cliente continua informando falha no processamento e comunica
+que a solicitação está sendo transferida para atendimento humano.
+
+
+
+
+Abaixo os detalhes da conversa conduzida:
+Caso 5 — Atendimento do contato +55 (21) 98193-7380
+
+Neste cenário, o usuário inicia sua jornada pela Weni (WhatsApp) para identificar a
+localização do pedido através do rastreio, contudo o status do pedido é entregue, a cliente
+informa que o produto não chegou, consegue acesso a nfe emitida e no final informa que
+não teve uma boa experiência ao agente.
+
+O agente, proativamente, tenta acionar o time de suporte mas incorre no mesmo erro dos
+casos 1 e 4:
+Abaixo os detalhes da interação:
+Caso 6 — Atendimento do contato +55 (21) 98093-0764
+
+Neste cenário, o usuário inicia sua jornada pela Weni (WhatsApp) para tentar realizar uma
+troca do produto de uma bicicleta elétrica, mas que toda a interação é permeada por
+problemas de comunicação. Ao final da interação é apresentado o documento de entrega
+do pedido e através disso o agente consegue acionar o suporte e abrir um chamado:
+Últimas interações até abertura de chamado:
+Caso 7 — Atendimento do contato +55 (21) 99999-7937
+
+Neste cenário, o usuário inicia sua jornada pela Weni (WhatsApp) para tentar realizar o
+cancelamento do pedido na tentativa de realizar o cancelamento do pedido.
+
+Mesmo problema apresentado nos casos 1, 4 e 5:
+Dados da interação do usuário:
+
